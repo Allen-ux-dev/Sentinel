@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="Resources/Sentinel-Lock-Screen.jpg" alt="Sentinel Lock Screen" width="100%">
+  <img src="Resources/Sentinel-Lock-Screen.webp" alt="Sentinel Lock Screen" width="100%">
 </p>
 
 Sentinel is a native macOS security companion designed for the moments when you leave your Mac unattended.
