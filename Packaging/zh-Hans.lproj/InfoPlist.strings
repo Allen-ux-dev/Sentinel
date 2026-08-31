@@ -1,0 +1,1 @@
+"NSCameraUsageDescription" = "当哨兵模式已开启并检测到认证失败时，Sentinel 可以使用摄像头捕获一张只保存在本机的静态画面。";
