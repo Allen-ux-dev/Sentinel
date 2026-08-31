@@ -1,3 +1,4 @@
+# One-time workflow. Remove after the verified preview is committed.
 name: Replace README preview once
 
 on:
